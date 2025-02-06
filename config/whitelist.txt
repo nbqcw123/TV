@@ -127,3 +127,4 @@ Runningman,http://dns.yiandrive.com:15907/douyu/131977
 kpop 女团,http://dns.yiandrive.com:15907/douyu/329667
 海绵宝宝,http://dns.yiandrive.com:15907/bilibili/26863308
 庆余年,http://dns.yiandrive.com:15907/douyu/7812810
+乌龙闯情关,http://dns.yiandrive.com:15907/huya/26355767
