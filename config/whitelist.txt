@@ -120,3 +120,4 @@ Runningman,http://dns.yiandrive.com:15907/douyu/131977
 斗鱼影院,http://dns.yiandrive.com:15907/douyu/323876
 浙江中百婺剧团,http://dns.yiandrive.com:15907/douyin/zhejiangzhobai
 浙江中月婺剧团,http://dns.yiandrive.com:15907/douyin/zjzywjt
+周润发,http://182.40.120.183/test-txdwk.flv.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.m3u8
