@@ -61,7 +61,6 @@ CCTV17,http://124.90.44.40:6060/010/2/00000001000000060000000000000799?AuthInfo=
 浙江少儿,http://124.90.44.40:6060/010/2/00000001000000060000000000000580?AuthInfo=Dozs8uiqbDlzp4lnSaqX%2B3qSubaYbXcVBhp7Z1aPlss5ClWLEgr2w%2FyaoOVDLtcRHZPwxnvBQSY3qR5P7obGAtlsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 宁波新闻综合,http://124.90.44.40:6060/010/2/00000001000000060000000000000600?AuthInfo=Dozs8uiqbDlzp4lnSaqX%2B3qSubaYbXcVBhp7Z1aPlss5ClWLEgr2w%2FyaoOVDLtcRbJ4thfLDl%2B%2FTu2P6i2kj0NlsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com
-宁波新闻综合,http://122.246.147.162:9999/rtp/233.50.201.168:5140
 宁波社会生活,http://124.90.44.40:6060/010/2/00000001000000060000000000000789?AuthInfo=Dozs8uiqbDlzp4lnSaqX%2B3qSubaYbXcVBhp7Z1aPlss5ClWLEgr2w%2FyaoOVDLtcR2Dz6D5%2BZ%2F2lIpdkxQCkaP9lsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com
 宁波都市文体,http://124.90.44.40:6060/010/2/00000001000000060000000000000790?AuthInfo=Dozs8uiqbDlzp4lnSaqX%2B3qSubaYbXcVBhp7Z1aPlss5ClWLEgr2w%2FyaoOVDLtcRX41xtsz%2FGErywDMTEKwnK9lsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com
 宁波影视频道,http://124.90.44.40:6060/010/2/00000001000000060000000000000791?AuthInfo=Dozs8uiqbDlzp4lnSaqX%2B3qSubaYbXcVBhp7Z1aPlss5ClWLEgr2w%2FyaoOVDLtcRsrh8v%2Ba8QX6PWWslPjbFhdlsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com
