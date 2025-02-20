@@ -148,3 +148,4 @@ kpop 女团,http://dns.yiandrive.com:15907/douyu/329667
 宋小宝,http://dns.yiandrive.com:15907/douyu/9817729
 贾玲,http://dns.yiandrive.com:15907/douyu/10419541
 动漫直播,http://dns.yiandrive.com:15907/douyu/1174353
+国产大片,http://dns.yiandrive.com:15907/yy/1354926655
