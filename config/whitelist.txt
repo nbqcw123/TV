@@ -147,4 +147,4 @@ kpop 女团,http://dns.yiandrive.com:15907/douyu/329667
 余姚姚江文化,http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
 宋小宝,http://dns.yiandrive.com:15907/douyu/9817729
 贾玲,http://dns.yiandrive.com:15907/douyu/10419541
-动漫,http://dns.yiandrive.com:15907/douyu/1174353
+动漫直播,http://dns.yiandrive.com:15907/douyu/1174353
