@@ -27,8 +27,7 @@ CCTV16,http://124.90.44.40:6060/010/2/01000010000000060000000000002805?AuthInfo=
 CCTV17,http://124.90.44.40:6060/010/2/00000001000000060000000000000799?AuthInfo=Dozs8uiqbDlzp4lnSaqX%2B3qSubaYbXcVBhp7Z1aPlss5ClWLEgr2w%2FyaoOVDLtcRbJnt3XwAfFhSJ9qLhp26adlsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com
 湖南卫视,http://124.90.44.40:6060/010/2/00000001000000060000000000000394?AuthInfo=Dozs8uiqbDlzp4lnSaqX%2B3qSubaYbXcVBhp7Z1aPlss5ClWLEgr2w%2FyaoOVDLtcRALApPGN9RKcNYa5M8mNe0dlsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com
 湖南卫视,http://123.157.31.182:7912/rtp/233.50.201.103:5140
-浙江卫视,http://124.90.44.40:6060/010/2/00000001000000060000000000000392?
-AuthInfo=Dozs8uiqbDlzp4lnSaqX%2B3qSubaYbXcVBhp7Z1aPlss5ClWLEgr2w%2FyaoOVDLtcRe%2FR6lsJfHm4ibiBNA4NGatlsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com
+浙江卫视,http://124.90.44.40:6060/010/2/00000001000000060000000000000392?AuthInfo=Dozs8uiqbDlzp4lnSaqX%2B3qSubaYbXcVBhp7Z1aPlss5ClWLEgr2w%2FyaoOVDLtcRe%2FR6lsJfHm4ibiBNA4NGatlsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com
 浙江卫视,http://123.157.31.182:7912/rtp/233.50.201.100:5140
 东方卫视,http://124.90.44.40:6060/010/2/00000001000000060000000000000478?AuthInfo=Dozs8uiqbDlzp4lnSaqX%2B3qSubaYbXcVBhp7Z1aPlss5ClWLEgr2w%2FyaoOVDLtcRbtMSuP4vy%2FaoZ93uBlfsN9lsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com
 东方卫视,http://123.157.31.182:7912/rtp/233.50.201.125:5140
