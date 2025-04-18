@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-04-18 06:44:04,http://124.90.44.40:6060/010/2/00000001000000060000000000000469?AuthInfo=Dozs8uiqbDlzp4lnSaqX%2B3qSubaYbXcVBhp7Z1aPlss5ClWLEgr2w%2FyaoOVDLtcRi78elH9ZjZEM6OnF87eIk9lsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com
+2025-04-18 18:49:49,http://124.90.44.40:6060/010/2/00000001000000060000000000000469?AuthInfo=Dozs8uiqbDlzp4lnSaqX%2B3qSubaYbXcVBhp7Z1aPlss5ClWLEgr2w%2FyaoOVDLtcRi78elH9ZjZEM6OnF87eIk9lsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com
 
 📺央视频道,#genre#
 CCTV1,http://124.90.44.40:6060/010/2/00000001000000060000000000000469?AuthInfo=Dozs8uiqbDlzp4lnSaqX%2B3qSubaYbXcVBhp7Z1aPlss5ClWLEgr2w%2FyaoOVDLtcRi78elH9ZjZEM6OnF87eIk9lsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com
@@ -972,6 +972,7 @@ CETV4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 凤凰资讯,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
 凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 凤凰资讯,http://udnhls.skilldns.com:80/fhzx-cn.m3u8
+凤凰资讯,https://cdn6.163189.xyz/live/fhzx/stream.m3u8
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
 凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8
