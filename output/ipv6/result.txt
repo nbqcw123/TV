@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-04-23 06:45:00,http://124.90.44.40:6060/010/2/00000001000000060000000000000469?AuthInfo=Dozs8uiqbDlzp4lnSaqX%2B3qSubaYbXcVBhp7Z1aPlss5ClWLEgr2w%2FyaoOVDLtcRi78elH9ZjZEM6OnF87eIk9lsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com
+2025-04-23 18:53:36,http://124.90.44.40:6060/010/2/00000001000000060000000000000469?AuthInfo=Dozs8uiqbDlzp4lnSaqX%2B3qSubaYbXcVBhp7Z1aPlss5ClWLEgr2w%2FyaoOVDLtcRi78elH9ZjZEM6OnF87eIk9lsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com
 
 📺央视频道,#genre#
 CCTV1,http://124.90.44.40:6060/010/2/00000001000000060000000000000469?AuthInfo=Dozs8uiqbDlzp4lnSaqX%2B3qSubaYbXcVBhp7Z1aPlss5ClWLEgr2w%2FyaoOVDLtcRi78elH9ZjZEM6OnF87eIk9lsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com
@@ -1207,8 +1207,8 @@ JJ斗地主,https://live.iill.top/bilibili/22021983
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
 浙江少儿,https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
 河北少儿科教,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8
 七龙珠,https://live.iill.top/huya/11601966
 火影忍者,https://live.iill.top/douyu/1997723
@@ -1342,6 +1342,7 @@ Runningman,http://dns.yiandrive.com:15907/douyu/131977
 周星驰,http://dns.yiandrive.com:15907/huya/21136378
 周星驰,https://live.iill.top/huya/11342412
 洪金宝,http://182.40.121.196/test-txdwk.flv.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.m3u8
+洪金宝,http://cdn.jdshipin.com:8880/huya.php?id=11279251
 林正英,http://223.85.105.11/test-txdwk.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
 林正英,http://dns.yiandrive.com:15907/yy/1453996620
 刘德华,https://live.iill.top/huya/11342424
@@ -1355,6 +1356,7 @@ Runningman,http://dns.yiandrive.com:15907/douyu/131977
 古天乐,http://182.40.120.186/test-txdwk.flv.huya.com/src/1239543150751-1239543150751-11135001227991973888-2479086424958-10057-A-0-1.m3u8
 古天乐,https://www.goodiptv.club/huya/11602041
 梁家辉,http://dns.yiandrive.com:15907/huya/11342429
+梁家辉,http://cdn.jdshipin.com:8880/huya.php?id=11342429
 沈腾,http://dns.yiandrive.com:15907/huya/11601968
 王晶,http://182.40.121.196/test-txdwk.flv.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.m3u8
 黄渤,http://dns.yiandrive.com:15907/huya/11352876
