@@ -156,3 +156,5 @@ kpop 女团,https://dns.yiandrive.com:15907/douyu/329667
 蜡笔小新,https://dns.yiandrive.com:15907/bilibili/30837590
 蜡笔小新,https://dns.yiandrive.com:15907/bilibili/30150311
 蜡笔小新,https://dns.yiandrive.com:15907/bilibili/1820703641
+凤凰资讯,https://live.iill.top/youtube/@phoenixtvhk
+陈佩斯,https://dns.yiandrive.com:15907/douyu/9286868
