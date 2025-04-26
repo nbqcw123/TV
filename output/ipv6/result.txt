@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-04-26 06:46:48,http://124.90.44.40:6060/010/2/00000001000000060000000000000469?AuthInfo=Dozs8uiqbDlzp4lnSaqX%2B3qSubaYbXcVBhp7Z1aPlss5ClWLEgr2w%2FyaoOVDLtcRi78elH9ZjZEM6OnF87eIk9lsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com
+2025-04-26 18:45:38,http://124.90.44.40:6060/010/2/00000001000000060000000000000469?AuthInfo=Dozs8uiqbDlzp4lnSaqX%2B3qSubaYbXcVBhp7Z1aPlss5ClWLEgr2w%2FyaoOVDLtcRi78elH9ZjZEM6OnF87eIk9lsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com
 
 📺央视频道,#genre#
 CCTV1,http://124.90.44.40:6060/010/2/00000001000000060000000000000469?AuthInfo=Dozs8uiqbDlzp4lnSaqX%2B3qSubaYbXcVBhp7Z1aPlss5ClWLEgr2w%2FyaoOVDLtcRi78elH9ZjZEM6OnF87eIk9lsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com
@@ -954,8 +954,8 @@ CETV4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed;http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8zzhed
 上虞文化影视,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
-浙江中百婺剧团,http://dns.yiandrive.com:15907/douyin/zhejiangzhobai
-浙江中月婺剧团,http://dns.yiandrive.com:15907/douyin/zjzywjt
+浙江中百婺剧团,https://dns.yiandrive.com:15907/douyin/zhejiangzhobai
+浙江中月婺剧团,https://dns.yiandrive.com:15907/douyin/zjzywjt
 
 🌊港·澳·台,#genre#
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
@@ -976,6 +976,8 @@ CETV4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
 凤凰中文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
 凤凰中文,http://cdn.163.dedyn.io/live/fhzw/stream.m3u8
+凤凰中文,http://xubo0712.asuscomm.cn:9999/rtp/239.93.0.162:2192
+凤凰资讯,https://live.iill.top/youtube/@phoenixtvhk
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx
@@ -1061,20 +1063,16 @@ CHC动作电影,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/8
 星空卫视,http://iptv.huuc.edu.cn/hls/startv.m3u8
 东森电影,http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
 美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-经典港剧,http://182.40.120.183/test-txdwk.flv.huya.com/src/1423787870-1423787870-6115122338091499520-2847699196-10057-A-0-1.m3u8
-斗鱼影院,http://dns.yiandrive.com:15907/douyu/323876
-漫威影院,http://epg.112114.eu.org/douyu/11673725
-漫威影院,http://dns.yiandrive.com:15907/douyu/9651304
-邵氏影院,http://dns.yiandrive.com:15907/douyu/4246519
-国产大片,http://dns.yiandrive.com:15907/yy/1354926655
-粤语电影,http://dns.yiandrive.com:15907/huya/21059572
-科幻电影,http://dns.yiandrive.com:15907/yy/1382736851
-国外科幻,http://dns.yiandrive.com:15907/yy/1382736851
+斗鱼影院,https://dns.yiandrive.com:15907/douyu/323876
+漫威影院,https://dns.yiandrive.com:15907/douyu/9651304
+邵氏影院,https://dns.yiandrive.com:15907/douyu/4246519
+国产大片,https://dns.yiandrive.com:15907/yy/1354926655
+粤语电影,https://dns.yiandrive.com:15907/huya/21059572
+科幻电影,https://dns.yiandrive.com:15907/yy/1382736851
+国外科幻,https://dns.yiandrive.com:15907/yy/1382736851
 国外科幻,http://data.3g.yy.com/live/hls/1382735585/1382735585
-搞笑恐怖,http://182.40.120.191/test-txdwk.flv.huya.com/src/1524418070-1524418070-6547325756081438720-3048959596-10057-A-0-1.flv
-港剧女神,http://182.40.120.183/test-txdwk.flv.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1.m3u8
-犯罪电影,http://182.40.120.171/test-txdwk.flv.huya.com/src/1449380946-1449380946-6225043762515542016-2847687614-10057-A-0-1.m3u8
-哈利波特,http://dns.yiandrive.com:15907/douyu/8814650
+搞笑恐怖,http://cfss.cc/cdn/hy/11601960.flv
+哈利波特,https://dns.yiandrive.com:15907/douyu/8814650
 
 🎥咪咕直播,#genre#
 咪咕直播1,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
@@ -1231,23 +1229,24 @@ JJ斗地主,https://live.iill.top/bilibili/22021983
 七龙珠,https://live.iill.top/huya/11601966
 火影忍者,https://live.iill.top/douyu/1997723
 火影忍者,http://live.iill.top/douyu.php?id=1997723
-海绵宝宝,http://dns.yiandrive.com:15907/bilibili/26863308
+海绵宝宝,https://dns.yiandrive.com:15907/bilibili/26863308
 海绵宝宝,https://live.metshop.top/douyu/3949681
 中华小当家,https://live.metshop.top/huya/11342413
 中华小当家,https://live.iill.top/huya/11342413
 猫和老鼠,http://live.iill.top/huya.php?id=11352879
 猫和老鼠,https://live.iill.top/huya/11352879
 经典动漫,http://luobo.bkpcp.top/yy/24180320
-蜡笔小新,http://dns.yiandrive.com:15907/bilibili/30837590
-蜡笔小新,http://dns.yiandrive.com:15907/bilibili/30150311
-蜡笔小新,http://dns.yiandrive.com:15907/bilibili/1820703641
-名侦探柯南,http://dns.yiandrive.com:15907/bilibili/30098402
-名侦探柯南,http://dns.yiandrive.com:15907/bilibili/3691904
+蜡笔小新,https://dns.yiandrive.com:15907/bilibili/30837590
+蜡笔小新,https://dns.yiandrive.com:15907/bilibili/30150311
+蜡笔小新,https://dns.yiandrive.com:15907/bilibili/1820703641
+名侦探柯南,https://dns.yiandrive.com:15907/bilibili/27829526
+名侦探柯南,https://dns.yiandrive.com:15907/bilibili/30098402
+名侦探柯南,https://dns.yiandrive.com:15907/bilibili/3691904
 漫画解说,http://luobo.bkpcp.top/yy/1382735568
 漫画解说,https://www.goodiptv.club/douyu/5907076
-灌篮高手,http://dns.yiandrive.com:15907/yy/1382735626
+灌篮高手,https://dns.yiandrive.com:15907/yy/1382735626
 灌篮高手,http://luobo.bkpcp.top/yy/1382735626
-动漫直播,http://dns.yiandrive.com:15907/douyu/1174353
+动漫直播,https://dns.yiandrive.com:15907/douyu/1174353
 
 🎮游戏频道,#genre#
 游戏风云,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031114
@@ -1259,11 +1258,11 @@ JJ斗地主,https://live.iill.top/bilibili/22021983
 电竞天堂,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288003/index.m3u8?channel-id=bestzb&Contentid=5000000011000288003&livemode=1&stbId=YanG-1989
 电竞天堂,http://tv.scjyhd.com:4022/udp/239.93.1.135:5140
 爱电竞,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000230630
-英雄联盟,http://dns.yiandrive.com:15907/bilibili/6
+英雄联盟,https://dns.yiandrive.com:15907/bilibili/6
 英雄联盟,http://live.iill.top/bilibili.php?id=6
 英雄联盟,https://live.iill.top/bilibili/6
-王者荣耀,http://dns.yiandrive.com:15907/bilibili/55
-王者荣耀,http://dns.yiandrive.com:15907/bilibili/21654762
+王者荣耀,https://dns.yiandrive.com:15907/bilibili/55
+王者荣耀,https://dns.yiandrive.com:15907/bilibili/21654762
 绝地求生,http://live.iill.top/bilibili.php?id=98
 绝地求生,https://live.iill.top/bilibili/98
 DOTA2,http://live.iill.top/douyu.php?id=3811559
@@ -1280,7 +1279,7 @@ Peaceful,https://live.iill.top/youtube/@videoeditor8218
 70、80、90年代经典老歌,https://live.iill.top/youtube/@7080%E5%B9%B4%E4%BB%A3%E7%BB%8F%E5%85%B8%E8%80%81%E6%AD%8C-o1e
 抖音热门,https://live.iill.top/youtube/@hottrendsdouyin
 破亿神曲,https://live.iill.top/youtube/@HotPlaylist66
-kpop 女团,http://dns.yiandrive.com:15907/douyu/329667
+kpop 女团,https://dns.yiandrive.com:15907/douyu/329667
 
 🏛经典剧场,#genre#
 NewTV超级电视剧,http://yc.myds.me:35455/itv/1000000006000268003.m3u8?cdn=ystenlive
@@ -1299,15 +1298,15 @@ NewTV精品大剧,http://yc.myds.me:35455/itv/1000000004000013968.m3u8?cdn=ysten
 NewTV超级综艺,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000023658/index.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=YanG-1989
 NewTV超级综艺,http://yc.myds.me:35455/itv/1000000006000268002.m3u8?cdn=ystenlive
 NewTV金牌综艺,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000026167/index.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=YanG-1989
-国产喜剧,http://dns.yiandrive.com:15907/yy/1382736856
-国产喜剧,http://dns.yiandrive.com:15907/yy/1382735584
+国产喜剧,https://dns.yiandrive.com:15907/yy/1382736856
+国产喜剧,https://dns.yiandrive.com:15907/yy/1382735584
 千禧经典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 千禧经典台,http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
 知否知否,https://live.metshop.top/yy/21881901
-知否知否,http://dns.yiandrive.com:15907/yy/1354936134
+知否知否,https://dns.yiandrive.com:15907/yy/1354936134
 花千骨,https://www.goodiptv.club/yy/1354943110
 情满四合院,http://jiaojirentv.top/2020/yy.php?id=1382735541
-情满四合院,http://dns.yiandrive.com:15907/huya/11342426
+情满四合院,https://dns.yiandrive.com:15907/huya/11342426
 情满四合院,http://luobo.bkpcp.top/yy/1382736848
 情满四合院,http://live.iill.top/yy.php?id=1382736888
 伪装者,https://www.goodiptv.club/yy/1354936244
@@ -1335,15 +1334,13 @@ NewTV金牌综艺,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/10000000040
 封神榜,http://luobo.bkpcp.top/yy/1353426319
 封神榜,http://www.clmy.cc:35455/yy/1353426319
 封神榜,http://live.iill.top/yy.php?id=1353426319
-乌龙闯情关,http://dns.yiandrive.com:15907/huya/26355767
-庆余年,http://dns.yiandrive.com:15907/douyu/7812810
+乌龙闯情关,https://dns.yiandrive.com:15907/huya/26355767
+庆余年,https://dns.yiandrive.com:15907/douyu/7812810
 武林外传,http://cdn.jdshipin.com:8880/huya.php?id=21059598
 武林外传,http://live.iill.top/yy.php?id=1394000563
-爱情公寓,http://223.85.105.11/test-txdwk.flv.huya.com/src/1388474069-1388474069-5963450717699047424-2777071594-10057-A-0-1.m3u8
-爱情公寓,http://dns.yiandrive.com:15907/huya/11336726
+爱情公寓,http://cfss.cc/cdn/hy/11336726.flv
+爱情公寓,https://dns.yiandrive.com:15907/huya/11336726
 爱情公寓,https://live.iill.top/huya/11336726
-延禧攻略,http://223.85.105.11/test-txdwk.flv.huya.com/src/1099531840940-1099531840940-86814878328684544-2199063805336-10057-A-0-1.m3u8
-陈情令,http://182.40.120.195/test-txdwk.flv.huya.com/src/1239543150218-1239543150218-11134998938774405120-2479086423892-10057-A-0-1.m3u8
 射雕英雄传,http://live.iill.top/yy.php?id=1354210357
 神雕侠侣,http://luobo.bkpcp.top/yy/1382704651
 神雕侠侣,https://live.iill.top/huya/11352964
@@ -1351,32 +1348,33 @@ NewTV金牌综艺,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/10000000040
 热门综艺,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288011/index.m3u8?channel-id=bestzb&Contentid=5000000011000288011&livemode=1&stbId=YanG-1989
 热门综艺,http://tv.scjyhd.com:4022/udp/239.93.0.151:5140
 舌尖上的中国,https://lunbo.freetv.top/yy/1354930952
-Runningman,http://dns.yiandrive.com:15907/douyu/131977
+Runningman,https://dns.yiandrive.com:15907/douyu/131977
 
 🧑明星频道,#genre#
-周润发,http://182.40.120.183/test-txdwk.flv.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.m3u8
-周星驰,http://223.85.105.11/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
-周星驰,http://dns.yiandrive.com:15907/huya/11342412
-周星驰,http://dns.yiandrive.com:15907/huya/21136378
+周润发,http://cfss.cc/cdn/hy/11342387.flv
+周星驰,http://cfss.cc/cdn/hy/11342412.flv
+周星驰,https://dns.yiandrive.com:15907/huya/11342412
+周星驰,https://dns.yiandrive.com:15907/huya/21136378
 周星驰,https://live.iill.top/huya/11342412
-洪金宝,http://182.40.121.196/test-txdwk.flv.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.m3u8
+洪金宝,http://cfss.cc/cdn/hy/11279251.flv
 洪金宝,http://cdn.jdshipin.com:8880/huya.php?id=11279251
-林正英,http://223.85.105.11/test-txdwk.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
-林正英,http://dns.yiandrive.com:15907/yy/1453996620
+林正英,http://cfss.cc/cdn/hy/11342421.flv
+林正英,https://dns.yiandrive.com:15907/yy/1453996620
 刘德华,https://live.iill.top/huya/11342424
-成龙,http://182.40.120.195/test-txdwk.flv.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.m3u8
+成龙,http://cfss.cc/cdn/hy/11342386.flv
 成龙,https://p6-dy.byteimg.com/origin/pgc-image/bebfddceee5c40f495882785675174cf
-李连杰,http://182.40.121.196/test-txdwk.flv.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.m3u8
+李连杰,http://cfss.cc/cdn/hy/11342390.flv
 李连杰,https://live.iill.top/huya/11342390
-甄子丹,http://182.40.121.196/test-txdwk.flv.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.m3u8
 甄子丹,https://live.iill.top/huya/11352935
 甄子丹,https://www.goodiptv.club/huya/11352935
-古天乐,http://182.40.120.186/test-txdwk.flv.huya.com/src/1239543150751-1239543150751-11135001227991973888-2479086424958-10057-A-0-1.m3u8
 古天乐,https://www.goodiptv.club/huya/11602041
-梁家辉,http://dns.yiandrive.com:15907/huya/11342429
+梁家辉,https://dns.yiandrive.com:15907/huya/11342429
 梁家辉,http://cdn.jdshipin.com:8880/huya.php?id=11342429
-沈腾,http://dns.yiandrive.com:15907/huya/11601968
-王晶,http://182.40.121.196/test-txdwk.flv.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.m3u8
-黄渤,http://dns.yiandrive.com:15907/huya/11352876
-宋小宝,http://dns.yiandrive.com:15907/douyu/9817729
-贾玲,http://dns.yiandrive.com:15907/douyu/10419541
+陈佩斯,https://dns.yiandrive.com:15907/douyu/9286868
+陈佩斯,https://dns.yiandrive.com:15907/douyu/9286868
+沈腾,https://dns.yiandrive.com:15907/huya/11601968
+沈腾,https://live.iill.top/douyu/10153463
+王晶,http://cfss.cc/cdn/hy/11602058.flv
+黄渤,https://dns.yiandrive.com:15907/huya/11352876
+宋小宝,https://dns.yiandrive.com:15907/douyu/9817729
+贾玲,https://dns.yiandrive.com:15907/douyu/10419541
