@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-22 18:44:42,http://124.90.44.40:6060/010/2/00000001000000060000000000000469?AuthInfo=Dozs8uiqbDlzp4lnSaqX%2B3qSubaYbXcVBhp7Z1aPlss5ClWLEgr2w%2FyaoOVDLtcRi78elH9ZjZEM6OnF87eIk9lsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com
+2025-05-23 06:43:12,http://124.90.44.40:6060/010/2/00000001000000060000000000000469?AuthInfo=Dozs8uiqbDlzp4lnSaqX%2B3qSubaYbXcVBhp7Z1aPlss5ClWLEgr2w%2FyaoOVDLtcRi78elH9ZjZEM6OnF87eIk9lsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com
 
 📺央视频道,#genre#
 CCTV1,http://124.90.44.40:6060/010/2/00000001000000060000000000000469?AuthInfo=Dozs8uiqbDlzp4lnSaqX%2B3qSubaYbXcVBhp7Z1aPlss5ClWLEgr2w%2FyaoOVDLtcRi78elH9ZjZEM6OnF87eIk9lsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com
@@ -304,6 +304,7 @@ CGTN,http://iptv.huuc.edu.cn/hls/cgtnhd.m3u8
 CGTN,https://0472.org/hls/cgtn.m3u8
 CGTN,https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 CETV1,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+CETV1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8
 CETV2,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV3,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CETV4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
