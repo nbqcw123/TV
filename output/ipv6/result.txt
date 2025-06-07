@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-07 06:41:57,http://124.90.44.40:6060/010/2/00000001000000060000000000000469?AuthInfo=Dozs8uiqbDlzp4lnSaqX%2B3qSubaYbXcVBhp7Z1aPlss5ClWLEgr2w%2FyaoOVDLtcRi78elH9ZjZEM6OnF87eIk9lsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com
+2025-06-07 18:44:07,http://124.90.44.40:6060/010/2/00000001000000060000000000000469?AuthInfo=Dozs8uiqbDlzp4lnSaqX%2B3qSubaYbXcVBhp7Z1aPlss5ClWLEgr2w%2FyaoOVDLtcRi78elH9ZjZEM6OnF87eIk9lsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com
 
 📺央视频道,#genre#
 CCTV1,http://124.90.44.40:6060/010/2/00000001000000060000000000000469?AuthInfo=Dozs8uiqbDlzp4lnSaqX%2B3qSubaYbXcVBhp7Z1aPlss5ClWLEgr2w%2FyaoOVDLtcRi78elH9ZjZEM6OnF87eIk9lsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com
