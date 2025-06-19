@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-19 21:59:25,http://124.90.44.40:6060/010/2/00000001000000060000000000000469?AuthInfo=Dozs8uiqbDlzp4lnSaqX%2B3qSubaYbXcVBhp7Z1aPlss5ClWLEgr2w%2FyaoOVDLtcRi78elH9ZjZEM6OnF87eIk9lsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com
+2025-06-19 22:13:35,http://124.90.44.40:6060/010/2/00000001000000060000000000000469?AuthInfo=Dozs8uiqbDlzp4lnSaqX%2B3qSubaYbXcVBhp7Z1aPlss5ClWLEgr2w%2FyaoOVDLtcRi78elH9ZjZEM6OnF87eIk9lsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com
 
 📺央视频道,#genre#
 CCTV1,http://124.90.44.40:6060/010/2/00000001000000060000000000000469?AuthInfo=Dozs8uiqbDlzp4lnSaqX%2B3qSubaYbXcVBhp7Z1aPlss5ClWLEgr2w%2FyaoOVDLtcRi78elH9ZjZEM6OnF87eIk9lsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com
@@ -66,7 +66,6 @@ CCTV17,http://124.90.44.40:6060/010/2/00000001000000060000000000000799?AuthInfo=
 西藏卫视,http://124.90.44.40:6060/010/2/00000001000000060000000000000390?AuthInfo=Dozs8uiqbDlzp4lnSaqX%2B3qSubaYbXcVBhp7Z1aPlss5ClWLEgr2w%2FyaoOVDLtcR1X5h9IGQ1SW8Odc2JGpuw9lsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com
 云南卫视,http://124.90.44.40:6060/010/2/20002000000000010000000002776036?AuthInfo=Dozs8uiqbDlzp4lnSaqX%2B%2Fr%2FvDiez3W7T%2Fa3OR6O43slbpoWwHA4vAZESKF8jtDx68w1hOCNPYdpVPnHb2dSI9lsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com
 兵团卫视,http://124.90.44.40:6060/010/2/00000001000000060000000000000429?AuthInfo=Dozs8uiqbDlzp4lnSaqX%2B3qSubaYbXcVBhp7Z1aPlss5ClWLEgr2w%2FyaoOVDLtcRmrCrzMqGFL%2BiN4FX60lx4tlsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com
-兵团卫视,http://120.76.248.139/live/bfgd/4200000124.m3u8
 
 ☘️浙江频道,#genre#
 浙江钱江都市,http://124.90.44.40:6060/010/2/00000001000000060000000000000571?AuthInfo=Dozs8uiqbDlzp4lnSaqX%2B3qSubaYbXcVBhp7Z1aPlss5ClWLEgr2w%2FyaoOVDLtcRlqjZiOTIaPSftKZXHx2jK9lsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com
@@ -90,19 +89,16 @@ CCTV17,http://124.90.44.40:6060/010/2/00000001000000060000000000000799?AuthInfo=
 温州新闻综合,http://124.90.44.40:6060/010/2/00000001000000060000000000000490?AuthInfo=Dozs8uiqbDlzp4lnSaqX%2B3qSubaYbXcVBhp7Z1aPlss5ClWLEgr2w%2FyaoOVDLtcR29EJ1Lw38pwt8ZrcN2P%2B%2BdlsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com
 温州新闻综合,http://124.90.44.40:6060/010/2/00000001000000060000000000000490?AuthInfo=Dozs8uiqbDlzp4lnSaqX%2B3qSubaYbXcVBhp7Z1aPlss5ClWLEgr2w%2FyaoOVDLtcR29EJ1Lw38pwt8ZrcN2P%2B%2BdlsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com
 绍兴电视台公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
-绍兴电视台公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 绍兴新闻综合,http://124.90.44.40:6060/010/2/00000001000000060000000000000496?AuthInfo=Dozs8uiqbDlzp4lnSaqX%2B3qSubaYbXcVBhp7Z1aPlss5ClWLEgr2w%2FyaoOVDLtcR0p6FNGl0ANb%2Fh7jtd9ftPdlsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com
+
+🌊港·澳·台,#genre#
 
 🎬电影频道,#genre#
 
 🏀体育频道,#genre#
-广州竞赛,http://tencentplaygsm.gztv.com/live/jingsai.m3u8
-广州竞赛,https://tencentplaygsm.gztv.com/live/jingsai.m3u8?txTime=659e2559&amp;txSecret=067c1cd334fe2f8773d9452993e86c78
 
 🧒动画频道,#genre#
 浙江少儿,http://124.90.44.40:6060/010/2/00000001000000060000000000000580?AuthInfo=Dozs8uiqbDlzp4lnSaqX%2B3qSubaYbXcVBhp7Z1aPlss5ClWLEgr2w%2FyaoOVDLtcRHZPwxnvBQSY3qR5P7obGAtlsMiU76bF1Tbh0JdAOKAM%3D&version=v1.0&BreakPoint=0&virtualDomain=010.live_hls.zte.com
 
 🏛经典剧场,#genre#
 都市剧场,http://120.76.248.139/live/bfgd/4200000168.m3u8
-
-🧑明星频道,#genre#
