@@ -28,3 +28,8 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+https://raw.githubusercontent.com/lalifeier/IPTV/main/m3u/Live.m3u
+https://raw.githubusercontent.com/lalifeier/IPTV/main/m3u/huya.m3u
+https://raw.githubusercontent.com/lalifeier/IPTV/main/m3u/douyu.m3u
+https://raw.githubusercontent.com/lalifeier/IPTV/main/m3u/yy.m3u
+https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/IPTV.txt
