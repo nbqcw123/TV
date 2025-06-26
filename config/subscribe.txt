@@ -33,3 +33,4 @@ https://raw.githubusercontent.com/lalifeier/IPTV/main/m3u/huya.m3u
 https://raw.githubusercontent.com/lalifeier/IPTV/main/m3u/douyu.m3u
 https://raw.githubusercontent.com/lalifeier/IPTV/main/m3u/yy.m3u
 https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/IPTV.txt
+https://raw.githubusercontent.com/Wirili/IPTV/blob/main/live.txt
