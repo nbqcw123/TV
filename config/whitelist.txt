@@ -144,7 +144,7 @@ Runningman,http://dns.yiandrive.com:13571/douyu/131977
 浙江中月婺剧团,http://dns.yiandrive.com:13571/douyin/zjzywjt
 周润发,http://cfss.cc/cdn/hy/11342387.flv
 周润发,http://dns.yiandrive.com:13571/huya/11342387
-强森,http://dns.yiandrive.com:13571/huya/21059581
+巨石强森,http://dns.yiandrive.com:13571/huya/21059581
 kpop 女团,http://dns.yiandrive.com:13571/douyu/329667
 海绵宝宝,http://dns.yiandrive.com:13571/26863308
 虹猫蓝兔动画,http://dns.yiandrive.com:13571/bilibili/31913902
@@ -174,3 +174,26 @@ kpop 女团,http://dns.yiandrive.com:13571/douyu/329667
 陈佩斯,http://dns.yiandrive.com:13571/douyu/9286868
 古墓系列,http://dns.yiandrive.com:13571/huya/11352913
 古惑仔,http://dns.yiandrive.com:13571/huya/11336719
+凤凰资讯,https://live.iill.top/youtube/@phoenixtvhk
+朝日新聞LIVE,https://live.iill.top/youtube/1Xm5bjdI5hU
+寰宇新闻,https://live.iill.top/youtube/@globalnewstw
+日テレNEWS,https://live.iill.top/youtube/@ntv_news
+SkyNews,https://live.iill.top/youtube/@SkyNews
+中天电视,https://live.iill.top/youtube/@%E4%B8%AD%E5%A4%A9%E9%9B%BB%E8%A6%96CtiTv
+中天新聞,https://live.iill.top/youtube/vr3XyVCR4T0
+TVBS新闻1,https://live.iill.top/youtube/@TVBSNEWS02
+TVBS新闻2,https://live.iill.top/youtube/TVBSNEWS01
+鏡新聞,https://live.iill.top/youtube/@mnews-tw
+東森財經,https://live.iill.top/youtube/@57ETFN
+中时新闻网,https://live.iill.top/youtube/@ChinaTimes
+三立新闻,https://live.iill.top/youtube/@setnews
+公视,https://live.iill.top/youtube/@PNNPTS
+民视,https://live.iill.top/youtube/@FTV_News
+非凡,https://live.iill.top/youtube/@ustv
+LiveNOW,https://live.iill.top/youtube/YDfiTGGPYCk
+NHK World,https://live.iill.top/youtube/f0lYkdA-Gtw
+民视新闻,https://live.iill.top/youtube/ylYJSBUgaMA&pp
+大爱,https://live.iill.top/youtube/@DaAiVideo
+台视新闻,https://live.iill.top/youtube/xL0ch83RAK8
+东森LIVE,https://live.iill.top/youtube/newsebc
+东森LIVE,https://live.iill.top/youtube/V1p33hqPrUk
